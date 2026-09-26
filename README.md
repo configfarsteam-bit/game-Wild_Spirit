@@ -1,10 +1,10 @@
-🌿 WildSpirit
+# 🌿 WildSpirit
 
-WildSpirit یک بازی طبیعت‌محور و حیات‌وحش است که توسط CONFIGFARS توسعه داده شده است.
+**WildSpirit** یک بازی طبیعت‌محور و حیات‌وحش است که توسط **CONFIGFARS** توسعه داده شده است.
 
-در WildSpirit می‌توانید یک دنیای زنده و پویا را مشاهده و کشف کنید؛ از حیوانات و پرندگان گرفته تا رودخانه‌ها، دریاچه‌ها، جنگل‌ها، آب‌وهوا و فصل‌ها.
+در این بازی می‌توانید یک دنیای زنده و پویا را مشاهده و کشف کنید؛ از حیوانات و پرندگان گرفته تا رودخانه‌ها، دریاچه‌ها، جنگل‌ها، آب‌وهوا و فصل‌ها.
 
-🐺 ویژگی‌های بازی
+## 🐺 ویژگی‌های بازی
 
 - 🦌 مشاهده‌ی زندگی و رفتار حیوانات
 - 💧 آب خوردن حیوانات
@@ -17,19 +17,19 @@ WildSpirit یک بازی طبیعت‌محور و حیات‌وحش است که 
 - 🐦 پرندگان
 - ☀️ سیستم آب‌وهوا
 - 🍂 فصل‌ها و تغییرات محیط
-- 🌍 محیط طبیعی پویا و قابل مشاهده
+- 🌍 محیط طبیعی پویا
 
 ---
 
-⚠️ مهم — توجه کاربران
+# ⚠️ توجه کاربران
 
-WildSpirit یک پروژه‌ی Open Source نیست.
+> **WildSpirit یک پروژه‌ی Open Source نیست.**
 
-این پروژه تحت یک Proprietary Software License منتشر شده است.
+این پروژه تحت یک **Proprietary Software License** منتشر شده است.
 
-انتشار سورس پروژه در GitHub به معنی آزاد بودن استفاده، کپی، تغییر یا بازتوزیع آن نیست.
+قرار داشتن این پروژه در GitHub به معنی آزاد بودن استفاده، کپی، تغییر، استخراج یا بازتوزیع آن نیست.
 
-❌ موارد زیر بدون اجازه مجاز نیستند:
+## 🚫 موارد غیرمجاز بدون اجازه
 
 - کپی کردن Source Code
 - استخراج یا استفاده از Assets
@@ -40,18 +40,18 @@ WildSpirit یک پروژه‌ی Open Source نیست.
 - Reverse Engineering
 - Decompilation
 - Disassembly
-- حذف Copyright و اطلاعات مالکیت
+- حذف Copyright یا اطلاعات مالکیت
 - انتشار نسخه‌ی غیررسمی پروژه
 
 ---
 
-📜 License
+# 📜 License
 
-CONFIGFARS PROPRIETARY SOFTWARE LICENSE
+## CONFIGFARS PROPRIETARY SOFTWARE LICENSE
 
-Copyright © 2026 CONFIGFARS. All Rights Reserved.
+**Copyright © 2026 CONFIGFARS. All Rights Reserved.**
 
-تمام حقوق مربوط به WildSpirit و اجزای اختصاصی آن، شامل اما نه محدود به:
+تمام حقوق مربوط به **WildSpirit** و اجزای اختصاصی آن، شامل اما نه محدود به:
 
 - Source Code
 - Game Logic
@@ -71,38 +71,39 @@ Copyright © 2026 CONFIGFARS. All Rights Reserved.
 
 برای مالک حقوق مربوطه محفوظ است.
 
-WildSpirit is NOT Open Source.
+**WildSpirit is NOT Open Source.**
 
-WildSpirit is NOT Public Domain.
+**WildSpirit is NOT Public Domain.**
 
-All Rights Reserved.
-
----
-
-📩 درخواست مجوز
-
-اگر قصد دارید:
-
-- از بخشی از پروژه استفاده کنید؛
-- بخشی از کد یا Assets را در پروژه‌ی خود استفاده کنید؛
-- پروژه را تغییر دهید و منتشر کنید؛
-- استفاده‌ی تجاری داشته باشید؛
-- همکاری رسمی پیشنهاد دهید؛
-- یا درباره‌ی مجوز استفاده سؤال کنید؛
-
-لطفاً یک Pull Request در همین repository ایجاد کنید و درخواست خود را به‌صورت واضح توضیح دهید.
-
-«⚠️ ایجاد Pull Request به معنی دریافت مجوز نیست.
-درخواست شما باید توسط تیم CONFIGFARS بررسی و تأیید شود.»
-
-پس از بررسی، پاسخ رسمی در همان Pull Request ارائه خواهد شد.
+**All Rights Reserved.**
 
 ---
 
-🛡️ Copyright
+# 📩 درخواست مجوز
 
-«WildSpirit © 2026 CONFIGFARS. All Rights Reserved.»
+اگر قصد دارید از کد، Assets یا سایر اجزای اختصاصی **WildSpirit** استفاده کنید، یا قصد همکاری، انتشار، تغییر یا استفاده‌ی تجاری از پروژه را دارید:
 
-NOT OPEN SOURCE • NOT PUBLIC DOMAIN • ALL RIGHTS RESERVED
+### لطفاً یک Pull Request در همین Repository ایجاد کنید.
 
-Powered by CONFIGFARS™
+در Pull Request خود به‌صورت واضح توضیح دهید:
+
+1. قصد دارید از کدام بخش پروژه استفاده کنید.
+2. هدف استفاده چیست.
+3. آیا استفاده‌ی شما تجاری است یا غیرتجاری.
+4. در صورت نیاز، تغییراتی که قصد انجام آن را دارید توضیح دهید.
+
+> ⚠️ **ایجاد Pull Request به‌تنهایی به معنی دریافت مجوز نیست.**
+
+تمام درخواست‌ها باید توسط تیم **CONFIGFARS** بررسی و تأیید شوند.
+
+تا زمانی که مجوز صریح و کتبی در Pull Request صادر نشده باشد، استفاده از بخش‌های اختصاصی پروژه مجاز نیست.
+
+---
+
+# 🛡️ Copyright
+
+**WildSpirit © 2026 CONFIGFARS. All Rights Reserved.**
+
+**NOT OPEN SOURCE • NOT PUBLIC DOMAIN • ALL RIGHTS RESERVED**
+
+**Powered by CONFIGFARS™**
