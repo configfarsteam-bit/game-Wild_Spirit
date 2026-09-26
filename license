@@ -1,0 +1,348 @@
+CONFIGFARS PROPRIETARY SOFTWARE LICENSE AGREEMENT (EULA)
+Version: 2.0
+Effective Date: September 26, 2026
+
+Copyright © 2026 ConfigFars. All Rights Reserved.
+
+---IMPORTANT: READ CAREFULLY. THIS AGREEMENT IS A LEGALLY BINDING CONTRACT BETWEEN YOU AND CONFIGFARS. IT CONTAINS IMPORTANT PROVISIONS REGARDING OWNERSHIP, PROHIBITED CONDUCT, ANTI-CHEAT ENFORCEMENT, ACCOUNT SANCTIONS, LIMITATION OF LIABILITY, INDEMNIFICATION, GOVERNING LAW, AND DISPUTE RESOLUTION. IF YOU DO NOT AGREE, DO NOT INSTALL, ACCESS, OR USE THE SOFTWARE.
+
+---1. INTRODUCTION AND ACCEPTANCE
+1.1. This Proprietary Software License Agreement ("Agreement" or "EULA") governs the installation, access, and use of the ConfigFars game and all related software, services, servers, websites, launchers, updates, content, and materials (collectively, the "Software").
+
+1.2. The Software is licensed, not sold. It is proprietary, closed-source software owned and/or controlled by ConfigFars and is not Open Source.
+
+1.3. You accept this Agreement by: (a) clicking "Accept"; (b) installing or using the Software; or (c) creating an account. Electronic acceptance has legal effect.
+
+1.4. Eligibility. You represent that you have legal capacity to enter into this Agreement. If you are under the age of legal majority, you may use the Software only with parental consent.
+
+1.5. If accepting on behalf of an organization, you represent that you are authorized to bind that organization.
+
+---2. DEFINITIONS
+"ConfigFars" means the ConfigFars brand, its development organization, owners, and the applicable rights holder.
+
+"Software" means the game and all proprietary components supplied by ConfigFars, including executable files, source code, object code, game logic, systems, architecture, algorithms, netcode, APIs, graphics, textures, animations, models, maps, environments, characters, effects, audio, music, text, dialogue, documentation, databases, configuration files, and all updates, patches, and versions thereof.
+
+"Proprietary Content" means all content, code, and materials owned or controlled by ConfigFars.
+
+"Confidential Information" means non-public information including unreleased builds, beta content, roadmaps, source code, server architecture, and security mechanisms.
+
+"Technical Protection Measures" means any licensing, DRM, encryption, authentication, anti-cheat, anti-tamper, or access-control mechanism.
+
+"Cheat" means any software, hardware, script, or method that grants an unfair advantage or interferes with the Software.
+
+"Third-Party Components" means software, libraries, services, or assets owned or licensed by third parties.
+
+"Applicable Law" means all laws and regulations that apply to you or the Software.
+
+---3. OWNERSHIP
+3.1. The Software and all Proprietary Content are and shall remain the sole and exclusive property of ConfigFars and/or its licensors.
+
+3.2. This includes: source code and object code; game logic and mechanics; architecture and protocols; graphical assets; characters and environments; animations and effects; audio and music; written content and dialogue; maps and world data; databases; user interfaces; documentation; and trademarks, names, logos, and branding.
+
+3.3. Any derivative work created in violation of this Agreement shall vest in ConfigFars.
+
+3.4. No sale, download, installation, or use of the Software transfers any ownership or intellectual property right. All rights not expressly granted are reserved.
+
+---4. PROPRIETARY AND NON-OPEN-SOURCE STATUS
+4.1. The Software is proprietary and closed-source. Nothing in this Agreement shall be interpreted as:
+releasing the Software into the public domain;
+granting any Open Source license (MIT, Apache, GPL, LGPL, AGPL, BSD, MPL, Creative Commons);
+granting any right to access or obtain source code; or
+transferring ownership of ConfigFars intellectual property.
+
+4.2. Public availability or ConfigFars's tolerance of unauthorized use shall not constitute a license or waiver of rights.
+
+4.3. Accidental disclosure of source code or Confidential Information does not grant any right to use or redistribute it.
+
+---5. LIMITED LICENSE GRANT
+5.1. Subject to continuous compliance, ConfigFars grants you a limited, personal, non-commercial, non-exclusive, non-transferable, non-sublicensable, and revocable license to install and use one copy of the Software for personal entertainment only.
+
+5.2. The license is conditional. Any breach automatically places your use outside the scope, and such use may constitute copyright infringement.
+
+5.3. The license exists only for as long as you remain in compliance with this Agreement and Applicable Law.
+
+---6. PERMITTED USE
+Subject to this Agreement, you may:
+download the Software only from authorized sources;
+install the Software on compatible devices you own or control;
+run the Software for personal, non-commercial entertainment; and
+use publicly provided gameplay features in accordance with game rules.
+
+Any use outside the scope expressly permitted is prohibited unless ConfigFars authorizes it in writing.
+
+---7. CONTENT CREATION AND STREAMING
+7.1. ConfigFars grants a limited, revocable permission to create and share videos, livestreams, and screenshots showing gameplay, including monetization through standard platform programs, provided that:
+you do not claim the content is official or endorsed by ConfigFars;
+you do not distribute extracted assets, Cheats, or exploits;
+you do not show or promote Cheats, hacks, or unauthorized servers;
+you do not reveal Confidential Information; and
+the content complies with Applicable Law.
+
+7.2. ConfigFars may revoke this permission at any time and request removal of violating content.
+
+---8. PROHIBITED ACTIVITIES
+Without written authorization from ConfigFars, you shall not:
+8.1 Copying and Distribution
+copy except as required for installation;
+create or distribute cracked, pirated, or unauthorized copies;
+upload to unauthorized websites, torrents, or file-sharing services;
+sell, rent, lease, sublicense, or commercially distribute;
+offer through unauthorized cloud gaming or streaming systems;
+distribute license keys, codes, or accounts outside authorized channels.
+8.2 Source Code and Technical Extraction
+publish, disclose, leak, or distribute source code or Confidential Information;
+obtain source code through unauthorized means;
+extract, dump, or decrypt proprietary code or data;
+reproduce internal systems or algorithms for redistribution.
+8.3 Asset Extraction
+Extract, rip, dump, or distribute any Proprietary Content: models, textures, maps, animations, sounds, music, images, characters, effects, shaders, scripts, game data, or databases.
+8.4 Modification and Derivative Works
+create modified versions of proprietary components;
+create derivative works based on the Software;
+create unofficial ports or clones;
+redistribute modified copies;
+integrate components into other products.
+8.5 Commercial Exploitation
+Use the Software for any unauthorized commercial purpose: products, services, games, applications, advertisements, websites, merchandise, paid tournaments, or "boosting" services.
+8.6 Artificial Intelligence and Data Mining
+use the Software or Proprietary Content to train, fine-tune, or develop AI or machine-learning models;
+scrape, crawl, or data-mine from the Software, servers, or services;
+use AI tools to generate content that replicates Proprietary Content.
+8.7 Branding and Trademarks
+Use ConfigFars names, logos, or trademarks in a manner that implies ownership, sponsorship, or endorsement, or register confusingly similar domains or social handles.
+8.8 Security and Technical Protection
+bypass or disable Technical Protection Measures;
+circumvent authentication or licensing systems;
+interfere with anti-cheat or integrity mechanisms;
+gain unauthorized access to servers or infrastructure;
+conduct DDoS attacks or scanning;
+introduce viruses or malware.
+8.9 Cheating and Abuse
+Create, develop, sell, or use:
+Cheats, hacks, aimbots, wallhacks, speed hacks;
+bots, macros, or unauthorized automation;
+injectors, trainers, or memory editors;
+unauthorized clients or server emulators;
+packet manipulation tools;
+exploits or glitches for unfair advantage;
+hardware devices for unfair advantage.
+8.10 Conduct Toward Others
+Harass, threaten, or abuse other users or ConfigFars staff; engage in fraud, phishing, or social engineering; engage in unauthorized real-money trading; or disrupt the Software.
+
+---9. REVERSE ENGINEERING
+9.1. To the maximum extent permitted by Applicable Law, you shall not reverse engineer, decompile, disassemble, decrypt, analyze, or attempt to derive source code or implementation details.
+
+9.2. Where Applicable Law grants non-waivable rights to reverse engineering, you may exercise them only to the minimum extent necessary, only after requesting information from ConfigFars in writing, and any information obtained shall be treated as Confidential and used solely for that purpose.
+
+---10. ANTI-CHEAT, MONITORING, AND ENFORCEMENT
+10.1. Anti-Cheat Consent. The Software may include anti-cheat and security technologies that operate on your device while running. These may inspect processes, memory, modules, files, drivers, and hardware identifiers to detect Cheats and threats. You expressly consent to such operation.
+
+10.2. Detection and Evidence. ConfigFars may collect gameplay data, logs, and evidence to investigate violations.
+
+10.3. Sanctions. Where ConfigFars determines you have violated this Agreement, it may apply:
+a warning;
+reset or rollback of progress, items, or currency;
+temporary suspension;
+permanent account ban;
+device, hardware (HWID), or IP ban;
+removal from events and forfeiture of prizes;
+termination of the license;
+reporting to authorities; and
+civil and/or criminal action.
+
+10.4. Sanctions for Cheating or fraud are generally non-refundable.
+
+10.5. Ban Evasion. Creating another account or using another device to evade a sanction is a separate violation and may result in escalated sanctions.
+
+10.6. Appeals. You may appeal through official channels. ConfigFars will review appeals but is not required to disclose detection methods.
+
+---11. RESPONSIBLE DISCLOSURE
+11.1. If you discover a security vulnerability or exploit, you must report it promptly and privately to ConfigFars and must not exploit or publish it.
+
+11.2. Good-faith reporting in compliance with this Section will not be treated as a violation of Sections 8.8 or 9, provided you do not access data of others, disrupt services, or publicly disclose before ConfigFars has time to fix it.
+
+---12. CONFIDENTIALITY, BETA, AND EARLY ACCESS
+12.1. If you participate in alpha, beta, test, or early-access programs, all builds and information are Confidential.
+
+12.2. Unless ConfigFars lifts confidentiality in writing, you shall not record, stream, screenshot, publish, share, or discuss Confidential Information publicly.
+
+12.3. Test versions are provided "as is", may contain bugs, and progress may be wiped.
+
+12.4. Confidentiality obligations survive termination.
+
+---13. FEEDBACK
+If you provide suggestions, ideas, or feedback, you grant ConfigFars a perpetual, irrevocable, worldwide, royalty-free right to use and exploit such Feedback for any purpose, without compensation. ConfigFars is not obligated to use any Feedback.
+
+---14. MODS AND USER-GENERATED TOOLS
+14.1. Modifications are prohibited unless ConfigFars officially provides modding tools.
+
+14.2. Where official modding is permitted, mods: (a) must comply with the Modding Policy; (b) may be used only non-commercially; (c) must not contain Cheats or malware; and (d) may be removed by ConfigFars at its discretion.
+
+---15. THIRD-PARTY COMPONENTS
+15.1. The Software may include Third-Party Components, which remain subject to their licenses.
+
+15.2. Nothing in this Agreement transfers ownership of Third-Party Components to you.
+
+15.3. Where a Third-Party Component is Open Source, that license applies only to that component and does not make the proprietary portions Open Source.
+
+15.4. ConfigFars is not responsible for third-party platforms or content outside its control.
+
+---16. USER CONTENT
+16.1. If the Software permits you to submit content (text, chat, names, images, recordings), you retain ownership to the extent you hold such rights.
+
+16.2. You grant ConfigFars a non-exclusive, worldwide, royalty-free license to host, reproduce, display, and moderate User Content as necessary to operate and provide the Software.
+
+16.3. You represent that your User Content does not violate Applicable Law or infringe third-party rights.
+
+16.4. ConfigFars may monitor, moderate, refuse, or remove any User Content at its discretion.
+
+---17. UPDATES AND CHANGES
+17.1. ConfigFars may release updates, patches, modify gameplay, change features, and discontinue features.
+
+17.2. Updates may be automatic and required. Updates are governed by this Agreement unless accompanied by separate terms.
+
+17.3. Nothing removes rights mandatory under Applicable Law.
+
+---18. ONLINE SERVICES
+18.1. Certain features may require an internet connection or access to ConfigFars services.
+
+18.2. Online features may be modified, suspended, or discontinued. ConfigFars will make reasonable efforts to provide notice of permanent discontinuation where required.
+
+18.3. ConfigFars may take technical measures to protect the Software and users, including rate limiting and blocking suspicious connections.
+
+---19. ACCOUNTS
+19.1. You are responsible for credential confidentiality and account activity.
+
+19.2. You shall not: impersonate any person; create accounts with another's identity; provide fraudulent information; share, sell, or transfer accounts; or use automated account creation.
+
+19.3. You must notify ConfigFars promptly of unauthorized account use.
+
+19.4. ConfigFars may restrict or suspend accounts as described in Sections 10 and 21. Inactive accounts may be deleted.
+
+---20. VIRTUAL ITEMS, CURRENCY, AND PURCHASES
+20.1. The Software may contain virtual items, currency, DLC, cosmetics, or digital content ("Virtual Items").
+
+20.2. Unless Applicable Law provides otherwise:
+Virtual Items are a limited, revocable license and are not personal property;
+Virtual Items have no monetary value and cannot be redeemed for real money;
+Virtual Items may not be sold or transferred outside authorized systems;
+ConfigFars may modify or discontinue Virtual Items subject to Applicable Law.
+
+20.3. Refunds. All purchases are final except as required by Applicable Law. Chargebacks may result in account suspension.
+
+20.4. Nothing overrides mandatory consumer rights.
+
+---21. TERMINATION
+21.1. This Agreement remains effective until terminated.
+
+21.2. You may terminate by uninstalling the Software and ceasing all use.
+
+21.3. ConfigFars may suspend or terminate the license if you materially breach this Agreement, engage in Cheating, or create risk. The license terminates automatically upon violations of Sections 8, 9, or 12.
+
+21.4. Upon termination, you must immediately cease all use and delete all copies.
+
+21.5. Sections on ownership, intellectual property, restrictions, confidentiality, feedback, disclaimers, limitation of liability, indemnification, remedies, and dispute resolution survive termination.
+
+---22. DISCLAIMER OF WARRANTIES
+22.1. To the maximum extent permitted by Applicable Law, the Software is provided on an "AS IS" and "AS AVAILABLE" basis, without warranties, express or implied.
+
+22.2. ConfigFars does not warrant that the Software will be always available, uninterrupted, secure, or error-free; that all features will remain available; or that data will not be lost.
+
+22.3. Nothing excludes any warranty, statutory right, or consumer protection that cannot lawfully be excluded.
+
+---23. LIMITATION OF LIABILITY
+23.1. To the maximum extent permitted by Applicable Law, ConfigFars shall not be liable for indirect, incidental, special, consequential, exemplary, or punitive damages, or loss of data, progress, or goodwill.
+
+23.2. ConfigFars's total aggregate liability shall not exceed the greater of (a) the amount you paid for the Software in the twelve (12) months before the claim, or (b) the minimum required by Applicable Law.
+
+23.3. Nothing limits liability for fraud, intentional misconduct, or liability that cannot be limited under Applicable Law.
+
+---24. INDEMNIFICATION
+You agree to indemnify ConfigFars from claims, losses, damages, and expenses arising from: (a) your breach of this Agreement; (b) your violation of Applicable Law; (c) your User Content; or (d) your creation, distribution, or use of Cheats or unauthorized tools.
+
+---25. REMEDIES AND INJUNCTIVE RELIEF
+25.1. You acknowledge that unauthorized use, disclosure, or distribution would cause ConfigFars irreparable harm.
+
+25.2. ConfigFars is entitled to seek injunctive relief, takedown orders, and other equitable remedies, in addition to damages and legal costs.
+
+25.3. ConfigFars may issue takedown notices to hosting providers and platforms for infringing material.
+
+25.4. Violations may constitute criminal offenses, and ConfigFars reserves the right to refer matters to authorities.
+
+---26. PRIVACY
+26.1. Use of the Software involves data processing as described in the ConfigFars Privacy Policy.
+
+Privacy Policy: https://configfars.ir/privacy
+
+26.2. The Privacy Policy describes data collected for anti-cheat, security, analytics, and account purposes.
+
+---27. EXPORT CONTROL
+You shall comply with all export control and trade laws applicable to your access to and use of the Software. ConfigFars may restrict access from certain regions.
+
+---28. INTELLECTUAL PROPERTY AND NOTICES
+28.1. All copyrights, software rights, design rights, database rights, trademarks, and intellectual property rights in the Software are reserved. No implied license is granted.
+
+28.2. You shall not remove, obscure, alter, or falsify any legal notices in the Software.
+
+28.3. ConfigFars™ and associated logos are trademarks of ConfigFars.
+
+---29. GOVERNING LAW
+This Agreement is governed by the laws of the Islamic Republic of Iran, including the Law on Protection of Computer Software Creators, Computer Crimes Law, Electronic Commerce Law, and Consumer Rights Protection Law, to the extent applicable, without regard to conflict-of-law principles.
+
+---30. DISPUTE RESOLUTION AND JURISDICTION
+30.1. Informal Resolution. Before formal proceedings, you agree to contact ConfigFars and attempt to resolve disputes informally for thirty (30) days.
+
+30.2. Jurisdiction. Disputes shall fall within the exclusive jurisdiction of the competent courts of Tehran, Islamic Republic of Iran, subject to mandatory legal requirements.
+
+30.3. Limitation Period. Any claim against ConfigFars must be brought within one (1) year after the cause of action arises.
+
+30.4. Nothing deprives a consumer of a mandatory right to bring a claim before a court, and nothing prevents ConfigFars from seeking injunctive relief.
+
+---31. FORCE MAJEURE
+ConfigFars shall not be liable for delays or failures caused by events beyond its control, including natural disasters, war, civil unrest, sanctions, internet or power outages, cyberattacks, or failures of third-party providers.
+
+---32. GENERAL PROVISIONS
+32.1. Severability. If any provision is held invalid, it shall be enforced to the maximum extent permitted and remaining provisions shall remain in full force.
+
+32.2. No Waiver. Failure to enforce any provision shall not constitute a waiver.
+
+32.3. Assignment. You may not assign rights without consent. ConfigFars may assign this Agreement in connection with merger or transfer.
+
+32.4. Entire Agreement. This Agreement, together with the Privacy Policy and game rules, constitutes the entire agreement and supersedes prior understandings.
+
+32.5. Order of Precedence. This Agreement prevails over game rules, except where those documents expressly state otherwise.
+
+32.6. Language. This Agreement may be provided in Persian and English. In case of inconsistency, the Persian version shall prevail to the extent required by Iranian law.
+
+32.7. Headings. Headings are for convenience only. "Including" means "including without limitation".
+
+32.8. Notices. ConfigFars may provide notices through the Software, website, or email. You may send notices through the contacts in Section 36.
+
+32.9. Relationship. Nothing creates a partnership, joint venture, employment, or agency relationship.
+
+---33. AMENDMENTS
+33.1. ConfigFars may update this Agreement to reflect changes to the Software, Applicable Law, security, or business practices.
+
+33.2. Material changes will be notified through the Software or website where legally required.
+
+33.3. Continued use after an update takes effect constitutes acceptance. If you do not agree, you must stop using the Software.
+
+---34. NO TRANSFER OF OWNERSHIP
+Purchasing, downloading, installing, or using the Software does not transfer copyright, trademark rights, trade secrets, Virtual Item ownership, or any intellectual property right. You receive only the limited license expressly granted in Section 5.
+
+---35. RESERVED RIGHTS
+All rights not expressly granted are reserved by ConfigFars and Third-Party Component owners. No implied rights are granted.
+
+---36. CONTACT
+ConfigFars™
+
+Website: https://configfars.ir
+Telegram: https://t.me/configfars
+Legal / Security / Appeals: [legal contact email to be added before publication]
+
+---37. LICENSE NOTICE
+THIS SOFTWARE IS PROPRIETARY AND CONFIDENTIAL. IT IS LICENSED, NOT SOLD.
+
+UNAUTHORIZED COPYING, DISTRIBUTION, MODIFICATION, REVERSE ENGINEERING, EXTRACTION, CHEATING, AI TRAINING, OR COMMERCIAL USE OF ANY PART OF THIS SOFTWARE IS STRICTLY PROHIBITED AND MAY RESULT IN ACCOUNT TERMINATION, CIVIL LIABILITY, AND CRIMINAL PROSECUTION TO THE FULLEST EXTENT OF THE LAW.
+
+© 2026 CONFIGFARS. ALL RIGHTS RESERVED.
